@@ -1,0 +1,10 @@
+0, 122000, 12S, Xiaomi, Xiaomi 12S 128GB Storage 6.3" Screen 50MP Front Camera 4500mAh Battery, 11
+1, 110000, Pixel 6, Google, Google Pixel 6 128GB Storage 6.4" Screen 50MP Front Camera 4700mAh Battery, 3
+2, 32000, Galaxy A13, Samsung, Samsung Galaxy A13 128GB Storage 6.6" Screen 50MP Front Camera 5000mAh Battery, 8
+3, 170000, Iphone 13, Apple, Apple Iphone 13 128GB Storage 6.1" Screen 12Mp Front Camera 3300mAh Battery, 5
+4, 40000, Redmi 10C, Xiaomi, Xiaomi Redmi 10C 128GB 4GB Storage Dual Sim Ocean Blue, 3
+5, 90000, P30 Lite, Huawei, Huawei P30 Lite 64GB Storage 6.15" Screen 48MP Front Camera 3340mAh Battery, 5
+6, 120000, Nova 10 Pro, Huawei, Huawei Nova 10 Pro 128GB Storage 6.78" Screen 50MP Front Camera 4500mAH Battery, 10
+7, 60000, Iphone X, Apple, Apple Iphone X 64GB Storage 5.8" Screen 12MP Front Camera 2700mAh Battery, 5
+8, 40000, Galaxy A23, Samsung, Samsung Galaxy A23 64GB Storage 6.6" Screen 50MP Front Camera 5000mAh Battery, 11
+9, 99000, Galaxy S10+, Samsung, Samsung Galaxy S10+ 128GB Storage 6.4" Screen 16MP Front Camera 4100mAh Battery, 6
